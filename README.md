@@ -3,3 +3,7 @@ https://en.wikipedia.org/wiki/T-90#cite_note-138 https://web.archive.org/web/202
 
 # Site: TWZ.com
 https://www.twz.com/
+
+# Site: warspotting.net
+https://warspotting.net
+https://web.archive.org/web/20230417022501/https://ukr.warspotting.net/view/9150/23562/
