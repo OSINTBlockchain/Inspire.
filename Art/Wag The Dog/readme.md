@@ -1,0 +1,1 @@
+- [This 1997 movie perfectly predicted today’s Ukraine war propaganda](https://youtu.be/BIZFAOtD5rM)
